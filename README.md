@@ -8,6 +8,8 @@ Sistema em Java desenvolvido para gerenciar e controlar treinamentos de capacita
 
 Projeto acadêmico desenvolvido para a disciplina de **Técnica de Programação I** do curso de **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC Praia Grande**.
 
+---
+
 ## Tecnologias e Conceitos Utilizados
 
 - **Linguagem:** Java (JDK 17+)
